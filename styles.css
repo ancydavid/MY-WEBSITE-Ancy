@@ -1,0 +1,176 @@
+
+body
+{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  line-height: 2;
+
+
+}
+p{
+  line-height: 2;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+
+}
+h2{
+font-size: 2.5rem;
+margin-top: 0px;
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 0px;
+
+}
+h3{
+  color: #11999E;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:150px;
+  bottom:300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top:30px;
+
+}
+
+.top-container{
+  background-color:  #EAF6F6;
+  position:relative;
+  padding-top: 100px;
+
+
+
+}
+.mid-container{
+margin: 100px 0;
+}
+.bottom-container{
+background-color:  #66BFBF;
+margin: auto;
+padding-bottom: 100px;
+}
+.program1{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+
+}
+.program2{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+
+}
+.image{
+
+  width: 100px;
+  height: 100px;
+}
+.mount{
+  width: 25%;
+
+}
+.contact-h1{
+  text-align:center;
+
+}
+.contact-me{
+  margin: 0px auto 0px auto;
+  padding-bottom: 20px;
+}
+.footer-link{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.clear1{
+  clear: left;
+}
+.clear2{
+  clear: right;
+}
+.intro{
+  color: #40514E;
+}
+.hr-style {
+  border-top: 6px dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto 50px auto;
+
+}
+.footer-link{
+  display: inline-block;
+}
+.copy{
+  color:   #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.avatar{
+  padding-bottom: 10px;
+  width: 15%;
+  height: 15%;
+
+}
+.BUTTON_URK {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   background-color:  #66BFBF;
+
+
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 30px;
+}
+
+.BUTTON_URK:hover {
+   background: #1E62D0;
+   border: solid #99C624 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.msg{
+  margin: 0px 0px 0px 250px;
+}
